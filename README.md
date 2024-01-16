@@ -10,3 +10,10 @@ January 15-19, 10:00-13:00, 14:00-17:00
  - lists, tuples, sets
  - control flow
  - functions
+ 
+#### Tuesday:
+
+ - standard library
+ - sympy
+ - numpy
+ - matplotlib
