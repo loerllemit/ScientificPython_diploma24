@@ -19,9 +19,18 @@ January 15-19, 10:00-13:00, 14:00-17:00
  - numpy
  - matplotlib
  
-### Wednesday
+#### Wednesday
 
  - homework discussion
  - using scripts
  - decorators
  - classes
+
+#### Thursday 
+ 
+ - homework discussion
+ - scipy
+ - pandas
+ - xarray
+ 
+
