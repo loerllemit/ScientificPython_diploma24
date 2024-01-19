@@ -33,4 +33,9 @@ January 15-19, 10:00-13:00, 14:00-17:00
  - pandas
  - xarray
  
+#### Friday
+
+ - homework discussion
+ - live coding session
+ - more exercises
 
